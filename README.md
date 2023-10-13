@@ -5,4 +5,4 @@
 - Using Linux in virtualization
 - Aws
 - IaaS, terraform,
-- Data
+- Data: Dynamo DB, RDS
