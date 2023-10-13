@@ -4,4 +4,5 @@
 - System design
 - Using Linux in virtualization
 - Aws
-- IaaS, terraform, 
+- IaaS, terraform,
+- Data
