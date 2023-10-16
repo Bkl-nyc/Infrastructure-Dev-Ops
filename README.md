@@ -6,3 +6,4 @@
 - Aws
 - IaaS, terraform,
 - Data: Dynamo DB, RDS
+- Cloud
