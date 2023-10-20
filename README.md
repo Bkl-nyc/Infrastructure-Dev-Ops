@@ -7,3 +7,4 @@
 - IaaS, terraform,
 - Data: Dynamo DB https://www.youtube.com/watch?v=2k2GINpO308, RDS
 - Cloud
+- Splunk https://www.youtube.com/watch?v=3CiRs6WaWaU
