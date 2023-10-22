@@ -8,4 +8,5 @@
 - Data: Dynamo DB https://www.youtube.com/watch?v=2k2GINpO308, RDS
 - Cloud
 - Splunk https://www.youtube.com/watch?v=3CiRs6WaWaU
-- s3, sqs, rest api
+- s3 https://youtu.be/tfU0JEZjcsg?si=Uq7CNQoyWGJGhfiJ
+-  sqs, rest api
