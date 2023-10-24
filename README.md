@@ -5,7 +5,7 @@
 - Using Linux in virtualization
 - Aws
 - IaaS, terraform,
-- Data: Dynamo DB https://www.youtube.com/watch?v=2k2GINpO308, RDS
+- Data: Dynamo DB https://www.youtube.com/watch?v=2k2GINpO308, RDS https://www.youtube.com/watch?v=eMzCI7S1P9M
 - Cloud
 - Splunk https://www.youtube.com/watch?v=3CiRs6WaWaU
 - s3 https://youtu.be/tfU0JEZjcsg?si=Uq7CNQoyWGJGhfiJ
