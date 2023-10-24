@@ -9,4 +9,5 @@
 - Cloud
 - Splunk https://www.youtube.com/watch?v=3CiRs6WaWaU
 - s3 https://youtu.be/tfU0JEZjcsg?si=Uq7CNQoyWGJGhfiJ
--  sqs https://www.youtube.com/watch?v=lsMQRaeKNDk, rest api https://www.youtube.com/watch?v=lsMQRaeKNDk
+-  sqs https://www.youtube.com/watch?v=lsMQRaeKNDk
+-  rest api https://www.youtube.com/watch?v=lsMQRaeKNDk
