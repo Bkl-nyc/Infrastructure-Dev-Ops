@@ -12,5 +12,5 @@
 -  sqs https://www.youtube.com/watch?v=lsMQRaeKNDk
 -  rest api https://www.youtube.com/watch?v=lsMQRaeKNDk
 -  cloudformation https://www.youtube.com/watch?v=0Sh9OySCyb4
--  terraform
+-  terraform https://www.youtube.com/watch?v=nvNqfgojocs&t=224s
   
