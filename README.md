@@ -1,6 +1,7 @@
 # Infrastructure-Dev-Ops
 - For learning review/new material in Dev Ops technologies 
 - Practice automation/cicd/infrastructure
+- Dev Ops road map https://www.youtube.com/watch?v=EAXdnPWUCcc
 - System design
 - Using Linux in virtualization
 - Aws devops
